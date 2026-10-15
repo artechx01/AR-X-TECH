@@ -27,7 +27,7 @@ termux-setup-storage
 
 Download Installer
 
-wget -O install-nethunter-termux https://example.com/installer
+wget -O install-nethunter-termux
 
 ---
 
